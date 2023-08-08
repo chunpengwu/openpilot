@@ -15,3 +15,8 @@ if [ -z "$PASSIVE" ]; then
 fi
 
 export STAGING_ROOT="/data/safe_staging"
+export SKIP_FW_QUERY=1
+export FINGERPRINT="HONDA CR-V HYBRID 2019"
+export API_HOST="https://mypilot.com.cn/myPilot"
+export ATHENA_HOST="wss://mypilot.com.cn"
+export MAPBOX_TOKEN="pk.eyJ1IjoiZHVjbDg3IiwiYSI6ImNrdDhjcmw4ajBxOHEyb251b29jNnVqZjgifQ.PRmCvwBbLZZK2PYwyLqFHg"
