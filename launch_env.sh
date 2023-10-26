@@ -16,7 +16,7 @@ fi
 
 export STAGING_ROOT="/data/safe_staging"
 export SKIP_FW_QUERY=1
-export FINGERPRINT=""LEXUS RX HYBRID 2017"
+export FINGERPRINT=""Lexus RX Hybrid 2020-22"
 export API_HOST="https://mypilot.com.cn/myPilot"
 export ATHENA_HOST="wss://mypilot.com.cn"
 export MAPBOX_TOKEN="pk.eyJ1IjoiZHVjbDg3IiwiYSI6ImNrdDhjcmw4ajBxOHEyb251b29jNnVqZjgifQ.PRmCvwBbLZZK2PYwyLqFHg"
