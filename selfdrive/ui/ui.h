@@ -85,12 +85,12 @@ struct Alert {
       } else if (controls_missing > CONTROLS_TIMEOUT && !Hardware::PC()) {
         // car is started, but controls is lagging or died
         if (cs.getEnabled() && (controls_missing - CONTROLS_TIMEOUT) < 10) {
-          alert = {"TAKE CONTROL IMMEDIATELY", "Controls Unresponsive",
+          alert = {"立即接管", "控制模型无响应",
                    "controlsUnresponsive", cereal::ControlsState::AlertSize::FULL,
                    cereal::ControlsState::AlertStatus::CRITICAL,
                    AudibleAlert::WARNING_IMMEDIATE};
         } else {
-          alert = {"Controls Unresponsive", "Reboot Device",
+          alert = {"控制模型无响应", "请重启设备",
                    "controlsUnresponsivePermanent", cereal::ControlsState::AlertSize::MID,
                    cereal::ControlsState::AlertStatus::NORMAL,
                    AudibleAlert::NONE};
