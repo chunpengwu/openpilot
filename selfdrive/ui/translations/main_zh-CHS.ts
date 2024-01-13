@@ -68,11 +68,11 @@
     </message>
     <message>
         <source>Hidden Network</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">网络</translation>
     </message>
     <message>
         <source>CONNECT</source>
-        <translation type="unfinished">CONNECT</translation>
+        <translation type="unfinished">护心果云</translation>
     </message>
     <message>
         <source>Enter SSID</source>
@@ -103,11 +103,11 @@
     </message>
     <message>
         <source>SPEED</source>
-        <translation>SPEED</translation>
+        <translation type="unfinished">速度</translation>
     </message>
     <message>
         <source>LIMIT</source>
-        <translation>LIMIT</translation>
+        <translation type="unfinished">限速</translation>
     </message>
 </context>
 <context>
@@ -125,7 +125,7 @@
     <name>DeclinePage</name>
     <message>
         <source>You must accept the Terms and Conditions in order to use openpilot.</source>
-        <translation>您必须接受条款和条件以使用openpilot。</translation>
+        <translation type="unfinished">您必须接受条款和条件以使用PilotOne。</translation>
     </message>
     <message>
         <source>Back</source>
@@ -140,7 +140,7 @@
     <name>DestinationWidget</name>
     <message>
         <source>Home</source>
-        <translation>住家</translation>
+        <translation type="unfinished">家</translation>
     </message>
     <message>
         <source>Work</source>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>home</source>
-        <translation>住家</translation>
+        <translation type="unfinished">家</translation>
     </message>
     <message>
         <source>work</source>
@@ -167,7 +167,7 @@
     <name>DevicePanel</name>
     <message>
         <source>Dongle ID</source>
-        <translation>设备ID（Dongle ID）</translation>
+        <translation type="unfinished">设备ID</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -187,7 +187,7 @@
     </message>
     <message>
         <source>Preview the driver facing camera to ensure that driver monitoring has good visibility. (vehicle must be off)</source>
-        <translation>打开并预览驾驶员摄像头，以确保驾驶员监控具有良好视野。（仅熄火时可用）</translation>
+        <translation type="unfinished">打开并预览驾驶员摄像头，以确保驾驶员监控良好。（仅熄火时可用）</translation>
     </message>
     <message>
         <source>Reset Calibration</source>
@@ -211,7 +211,7 @@
     </message>
     <message>
         <source>Review the rules, features, and limitations of openpilot</source>
-        <translation>查看 openpilot 的使用规则，以及其功能和限制</translation>
+        <translation type="unfinished">查看 PilotOne 的使用规则，以及其功能和限制</translation>
     </message>
     <message>
         <source>Are you sure you want to review the training guide?</source>
@@ -247,7 +247,7 @@
     </message>
     <message>
         <source>openpilot requires the device to be mounted within 4° left or right and within 5° up or 9° down. openpilot is continuously calibrating, resetting is rarely required.</source>
-        <translation>openpilot要求设备安装的偏航角在左4°和右4°之间，俯仰角在上5°和下9°之间。一般来说，openpilot会持续更新校准，很少需要重置。</translation>
+        <translation type="unfinished">PilotOne要求设备安装的偏航角在左4°和右4°之间，俯仰角在上5°和下9°之间。一般来说，PilotOne会持续更新校准，很少需要重置。</translation>
     </message>
     <message>
         <source> Your device is pointed %1° %2 and %3° %4.</source>
@@ -275,7 +275,7 @@
     </message>
     <message>
         <source>Disengage to Reboot</source>
-        <translation>取消openpilot以重新启动</translation>
+        <translation type="unfinished">取消PilotOne以重新启动</translation>
     </message>
     <message>
         <source>Are you sure you want to power off?</source>
@@ -283,7 +283,7 @@
     </message>
     <message>
         <source>Disengage to Power Off</source>
-        <translation>取消openpilot以关机</translation>
+        <translation type="unfinished">取消PilotOne以关机</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -355,7 +355,7 @@
     </message>
     <message>
         <source>Manage at connect.comma.ai</source>
-        <translation>请在 connect.comma.ai 上管理</translation>
+        <translation type="unfinished">请在 my.huxinguo.com 上管理</translation>
     </message>
 </context>
 <context>
@@ -407,11 +407,11 @@
     <name>OffroadAlert</name>
     <message>
         <source>Immediately connect to the internet to check for updates. If you do not connect to the internet, openpilot won&apos;t engage in %1</source>
-        <translation>请立即连接网络检查更新。如果不连接网络，openpilot 将在 %1 后便无法使用</translation>
+        <translation type="unfinished">请立即连接网络检查更新。如果不连接网络，PilotOne 将在 %1 后便无法使用</translation>
     </message>
     <message>
         <source>Connect to internet to check for updates. openpilot won&apos;t automatically start until it connects to internet to check for updates.</source>
-        <translation>请连接至互联网以检查更新。在连接至互联网并完成更新检查之前，openpilot 将不会自动启动。</translation>
+        <translation type="unfinished">请连接至互联网以检查更新。在连接至互联网并完成更新检查之前，PilotOne 将不会自动启动。</translation>
     </message>
     <message>
         <source>Unable to download updates
@@ -433,7 +433,7 @@
     </message>
     <message>
         <source>Device failed to register. It will not connect to or upload to comma.ai servers, and receives no support from comma.ai. If this is an official device, visit https://comma.ai/support.</source>
-        <translation>设备注册失败。它将无法连接或上传至 comma.ai 服务器，并且无法获得 comma.ai 的支持。如果这是一个官方设备，请访问 https://comma.ai/support。</translation>
+        <translation type="unfinished">设备注册失败。请联系护心果客服或当地经销商。</translation>
     </message>
     <message>
         <source>NVMe drive not mounted.</source>
@@ -445,15 +445,15 @@
     </message>
     <message>
         <source>openpilot was unable to identify your car. Your car is either unsupported or its ECUs are not recognized. Please submit a pull request to add the firmware versions to the proper vehicle. Need help? Join discord.comma.ai.</source>
-        <translation>openpilot 无法识别您的车辆。您的车辆可能未被支持，或是其电控单元 (ECU) 未被识别。请提交一个 Pull Request 为您的车辆添加正确的固件版本。需要帮助吗？请加入 discord.comma.ai。</translation>
+        <translation type="unfinished">PilotOne 无法识别您的车辆。您的车辆可能未被支持，或是其电控单元 (ECU) 未被识别。请联系护心果客服或当地经销商请求支持。</translation>
     </message>
     <message>
         <source>openpilot was unable to identify your car. Check integrity of cables and ensure all connections are secure, particularly that the comma power is fully inserted in the OBD-II port of the vehicle. Need help? Join discord.comma.ai.</source>
-        <translation>openpilot 无法识别您的车辆。请检查线路是否正确安装并确保所有的连接都牢固，特别是确保 comma power 完全插入车辆的 OBD-II 接口。需要帮助吗？请加入 discord.comma.ai。</translation>
+        <translation type="unfinished">PilotOne 无法识别您的车辆。请检查线路是否正确安装并确保所有的连接都牢固，特别是确保 OBD模块 完全插入车辆的 OBD-II 接口。</translation>
     </message>
     <message>
         <source>openpilot detected a change in the device&apos;s mounting position. Ensure the device is fully seated in the mount and the mount is firmly secured to the windshield.</source>
-        <translation>openpilot 检测到设备的安装位置发生变化。请确保设备完全安装在支架上，并确保支架牢固地固定在挡风玻璃上。</translation>
+        <translation type="unfinished">PilotOne 检测到设备的安装位置发生变化。请确保设备完全安装在支架上，并确保支架牢固地固定在挡风玻璃上。</translation>
     </message>
     <message>
         <source>Device temperature too high. System cooling down before starting. Current internal component temperature: %1</source>
@@ -479,11 +479,11 @@
     <name>PairingPopup</name>
     <message>
         <source>Pair your device to your comma account</source>
-        <translation>将您的设备与comma账号配对</translation>
+        <translation type="unfinished">将您的设备与APPLEGRAIN账号配对</translation>
     </message>
     <message>
         <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>在手机上访问 https://connect.comma.ai</translation>
+        <translation type="unfinished">在手机上访问 https://my.huxinguo.com</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>
@@ -491,7 +491,7 @@
     </message>
     <message>
         <source>Bookmark connect.comma.ai to your home screen to use it like an app</source>
-        <translation>将 connect.comma.ai 收藏到您的主屏幕，以便像应用程序一样使用它</translation>
+        <translation type="unfinished">将 my.huxinguo.com收藏到您的收藏夹，以便像应用程序一样使用它</translation>
     </message>
 </context>
 <context>
@@ -513,11 +513,11 @@
     </message>
     <message>
         <source>Become a comma prime member at connect.comma.ai</source>
-        <translation>打开connect.comma.ai以注册comma prime会员</translation>
+        <translation type="unfinished">打开my.huxinguo.com以注册护心果高级会员</translation>
     </message>
     <message>
         <source>PRIME FEATURES:</source>
-        <translation>comma prime特权：</translation>
+        <translation type="unfinished">护心果高级特权：</translation>
     </message>
     <message>
         <source>Remote access</source>
@@ -525,7 +525,7 @@
     </message>
     <message>
         <source>24/7 LTE connectivity</source>
-        <translation>全天候 LTE 連線</translation>
+        <translation type="unfinished">全天候 4G 连接</translation>
     </message>
     <message>
         <source>Turn-by-turn navigation</source>
@@ -544,7 +544,7 @@
     </message>
     <message>
         <source>comma prime</source>
-        <translation>comma prime</translation>
+        <translation type="unfinished">护心果高级会员</translation>
     </message>
 </context>
 <context>
@@ -563,7 +563,7 @@
     </message>
     <message>
         <source>openpilot</source>
-        <translation>openpilot</translation>
+        <translation type="unfinished">PilotOne</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) ago</source>
@@ -585,7 +585,7 @@
     </message>
     <message>
         <source>km</source>
-        <translation>km</translation>
+        <translation type="unfinished">km</translation>
     </message>
     <message>
         <source>m</source>
@@ -672,7 +672,7 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>Power your device in a car with a harness or proceed at your own risk.</source>
-        <translation>请使用car harness线束为您的设备供电，或自行承担风险。</translation>
+        <translation type="unfinished">请使用官方线束为您的设备供电，或自行承担风险。</translation>
     </message>
     <message>
         <source>Power off</source>
@@ -755,7 +755,7 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>将您的设备与comma connect （connect.comma.ai）配对并领取您的comma prime优惠。</translation>
+        <translation type="unfinished">将您的设备与护心果云 （my.huxinguo.com）配对并领取您的护心果高级会员优惠。</translation>
     </message>
     <message>
         <source>Pair device</source>
@@ -766,7 +766,7 @@ This may take up to a minute.</source>
     <name>Sidebar</name>
     <message>
         <source>CONNECT</source>
-        <translation>CONNECT</translation>
+        <translation type="unfinished">护心果云</translation>
     </message>
     <message>
         <source>OFFLINE</source>
@@ -806,7 +806,7 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>PANDA</source>
-        <translation>PANDA</translation>
+        <translation type="unfinished">转译器</translation>
     </message>
     <message>
         <source>GPS</source>
@@ -838,7 +838,7 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>LTE</source>
-        <translation>LTE</translation>
+        <translation type="unfinished">4G</translation>
     </message>
     <message>
         <source>5G</source>
@@ -928,7 +928,7 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>Warning: This grants SSH access to all public keys in your GitHub settings. Never enter a GitHub username other than your own. A comma employee will NEVER ask you to add their GitHub username.</source>
-        <translation>警告：这将授予SSH访问权限给您GitHub设置中的所有公钥。切勿输入您自己以外的GitHub用户名。comma员工永远不会要求您添加他们的GitHub用户名。</translation>
+        <translation type="unfinished">警告：这将授予SSH访问权限给您GitHub设置中的所有公钥。切勿输入您自己以外的GitHub用户名。护心果员工永远不会要求您添加他们的GitHub用户名。</translation>
     </message>
     <message>
         <source>ADD</source>
@@ -989,11 +989,11 @@ This may take up to a minute.</source>
     <name>TogglesPanel</name>
     <message>
         <source>Enable openpilot</source>
-        <translation>启用openpilot</translation>
+        <translation type="unfinished">启用PilotOne</translation>
     </message>
     <message>
         <source>Use the openpilot system for adaptive cruise control and lane keep driver assistance. Your attention is required at all times to use this feature. Changing this setting takes effect when the car is powered off.</source>
-        <translation>使用openpilot进行自适应巡航和车道保持辅助。使用此功能时您必须时刻保持注意力。该设置的更改在熄火时生效。</translation>
+        <translation type="unfinished">使用PilotOne进行自适应巡航和车道保持辅助。使用此功能时您必须时刻保持注意力。该设置的更改在熄火时生效。</translation>
     </message>
     <message>
         <source>Enable Lane Departure Warnings</source>
@@ -1025,7 +1025,7 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>When enabled, pressing the accelerator pedal will disengage openpilot.</source>
-        <translation>启用后，踩下油门踏板将取消openpilot。</translation>
+        <translation type="unfinished">启用后，踩下油门踏板将取消PilotOne。</translation>
     </message>
     <message>
         <source>Show ETA in 24h Format</source>
@@ -1049,11 +1049,11 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>openpilot defaults to driving in &lt;b&gt;chill mode&lt;/b&gt;. Experimental mode enables &lt;b&gt;alpha-level features&lt;/b&gt; that aren&apos;t ready for chill mode. Experimental features are listed below:</source>
-        <translation>openpilot 默认 &lt;b&gt;轻松模式&lt;/b&gt;驾驶车辆。试验模式启用一些轻松模式之外的 &lt;b&gt;试验性功能&lt;/b&gt;。试验性功能包括：</translation>
+        <translation type="unfinished">PilotOne 默认 &lt;b&gt;轻松模式&lt;/b&gt;驾驶车辆。试验模式启用一些轻松模式之外的 &lt;b&gt;试验性功能&lt;/b&gt;。试验性功能包括：</translation>
     </message>
     <message>
         <source>Let the driving model control the gas and brakes. openpilot will drive as it thinks a human would, including stopping for red lights and stop signs. Since the driving model decides the speed to drive, the set speed will only act as an upper bound. This is an alpha quality feature; mistakes should be expected.</source>
-        <translation>允许驾驶模型控制加速和制动，openpilot将模仿人类驾驶车辆，包括在红灯和停车让行标识前停车。鉴于驾驶模型确定行驶车速，所设定的车速仅作为上限。此功能尚处于早期测试状态，有可能会出现操作错误。</translation>
+        <translation type="unfinished">允许驾驶模型控制加速和制动，PilotOne将模仿人类驾驶车辆，包括在红灯和停车让行标识前停车。鉴于驾驶模型确定行驶车速，所设定的车速仅作为上限。此功能尚处于早期测试状态，有可能会出现操作错误。</translation>
     </message>
     <message>
         <source>New Driving Visualization</source>
@@ -1065,19 +1065,19 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>openpilot longitudinal control may come in a future update.</source>
-        <translation>openpilot纵向控制可能会在未来的更新中提供。</translation>
+        <translation type="unfinished">PilotOne纵向控制可能会在未来的更新中提供。</translation>
     </message>
     <message>
         <source>openpilot Longitudinal Control (Alpha)</source>
-        <translation>openpilot纵向控制（Alpha 版）</translation>
+        <translation type="unfinished">PilotOne纵向控制（Alpha 版）</translation>
     </message>
     <message>
         <source>WARNING: openpilot longitudinal control is in alpha for this car and will disable Automatic Emergency Braking (AEB).</source>
-        <translation>警告：此车辆的 openpilot 纵向控制功能目前处于Alpha版本，使用此功能将会停用自动紧急制动（AEB）功能。</translation>
+        <translation type="unfinished">警告：此车辆的 PilotOne 纵向控制功能目前处于Alpha版本，使用此功能将会停用自动紧急制动（AEB）功能。</translation>
     </message>
     <message>
         <source>On this car, openpilot defaults to the car&apos;s built-in ACC instead of openpilot&apos;s longitudinal control. Enable this to switch to openpilot longitudinal control. Enabling Experimental mode is recommended when enabling openpilot longitudinal control alpha.</source>
-        <translation>在这辆车上，openpilot 默认使用车辆内建的主动巡航控制（ACC），而非 openpilot 的纵向控制。启用此项功能可切换至 openpilot 的纵向控制。当启用 openpilot 纵向控制 Alpha 版本时，建议同时启用实验性模式（Experimental mode）。</translation>
+        <translation type="unfinished">在这辆车上，PilotOne 默认使用车辆内建的主动巡航控制（ACC），而非 PilotOne 的纵向控制。启用此项功能可切换至 PilotOne 的纵向控制。当启用 PilotOne 纵向控制 Alpha 版本时，建议同时启用实验性模式（WuKongOne mode）。</translation>
     </message>
     <message>
         <source>Aggressive</source>
@@ -1097,19 +1097,19 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>Standard is recommended. In aggressive mode, openpilot will follow lead cars closer and be more aggressive with the gas and brake. In relaxed mode openpilot will stay further away from lead cars.</source>
-        <translation>推荐使用标准模式。在积极模式中，openpilot 会更靠近前车并在加速和刹车方面更积极。在舒适模式中，openpilot 会与前车保持较远的距离。</translation>
+        <translation type="unfinished">推荐使用标准模式。在积极模式中，PilotOne 会更靠近前车并在加速和刹车方面更积极。在舒适模式中，PilotOne 会与前车保持较远的距离。</translation>
     </message>
     <message>
         <source>An alpha version of openpilot longitudinal control can be tested, along with Experimental mode, on non-release branches.</source>
-        <translation>在正式（release）版本以外的分支上，可以测试 openpilot 纵向控制的 Alpha 版本以及实验模式。</translation>
+        <translation type="unfinished">在正式（release）版本以外的分支上，可以测试 PilotOne 纵向控制的 Alpha 版本以及实验模式。</translation>
     </message>
     <message>
         <source>Navigate on openpilot</source>
-        <translation>Navigate on openpilot</translation>
+        <translation type="unfinished">Navigate on PilotOne</translation>
     </message>
     <message>
         <source>Enable the openpilot longitudinal control (alpha) toggle to allow Experimental mode.</source>
-        <translation>启用 openpilot 纵向控制（alpha）开关以允许实验模式。</translation>
+        <translation type="unfinished">启用 PilotOne 纵向控制（alpha）开关以允许实验模式。</translation>
     </message>
     <message>
         <source>End-to-End Longitudinal Control</source>
@@ -1117,7 +1117,7 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>When navigation has a destination, openpilot will input the map information into the model. This provides useful context for the model and allows openpilot to keep left or right appropriately at forks/exits. Lane change behavior is unchanged and still activated by the driver. This is an alpha quality feature; mistakes should be expected, particularly around exits and forks. These mistakes can include unintended laneline crossings, late exit taking, driving towards dividing barriers in the gore areas, etc.</source>
-        <translation>当导航有目的地时，openpilot 将输入地图信息到模型中。这为模型提供了有用的背景信息，使 openpilot 能够在叉路/出口时适当地保持左侧或右侧行驶。车道变换行为保持不变，仍由驾驶员激活。这是一个 Alpha 版的功能；可能会出现错误，特别是在出口和分叉处。这些错误可能包括意外的车道越界、晚出口、朝着分隔栏驶向安全地带等。</translation>
+        <translation type="unfinished">当导航有目的地时，PilotOne 将输入地图信息到模型中。这为模型提供了有用的背景信息，使 PilotOne 能够在叉路/出口时适当地保持左侧或右侧行驶。车道变换行为保持不变，仍由驾驶员激活。这是一个 Alpha 版的功能；可能会出现错误，特别是在出口和分叉处。这些错误可能包括意外的车道越界、晚出口、朝着分隔栏驶向安全地带等。</translation>
     </message>
     <message>
         <source>The driving visualization will transition to the road-facing wide-angle camera at low speeds to better show some turns. The Experimental mode logo will also be shown in the top right corner. When a navigation destination is set and the driving model is using it as input, the driving path on the map will turn green.</source>
@@ -1167,7 +1167,7 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>Connect to Wi-Fi to upload driving data and help improve openpilot</source>
-        <translation>请连接至 Wi-Fi 上传驾驶数据以协助改进openpilot</translation>
+        <translation type="unfinished">请连接至 Wi-Fi 上传驾驶数据以协助改进PilotOne</translation>
     </message>
     <message>
         <source>Open Settings</source>
