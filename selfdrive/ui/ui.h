@@ -78,7 +78,7 @@ struct Alert {
       // Handle controls timeout
       if (controls_frame < started_frame) {
         // car is started, but controlsState hasn't been seen at all
-        alert = {"openpilot Unavailable", "Waiting for controls to start",
+        alert = {"PilotOne待开启", "等待车辆讯号中",
                  "controlsWaiting", cereal::ControlsState::AlertSize::MID,
                  cereal::ControlsState::AlertStatus::NORMAL,
                  AudibleAlert::NONE};
