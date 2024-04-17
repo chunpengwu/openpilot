@@ -810,7 +810,6 @@ FW_VERSIONS = {
     (Ecu.gateway, 0x18daeff1, None): [
       b'38897-THR-A010\x00\x00',
       b'38897-THR-A020\x00\x00',
-      b'38897-TKN-H030\x00\x00',
     ],
     (Ecu.programmedFuelInjection, 0x18da10f1, None): [
       b'37805-5MR-4080\x00\x00',
@@ -827,7 +826,6 @@ FW_VERSIONS = {
     (Ecu.eps, 0x18da30f1, None): [
       b'39990-THR-A020\x00\x00',
       b'39990-THR-A030\x00\x00',
-      b'77959-T6A-H140\x00\x00',
     ],
     (Ecu.srs, 0x18da53f1, None): [
       b'77959-THR-A010\x00\x00',
@@ -896,7 +894,6 @@ FW_VERSIONS = {
       b'78109-THR-DA30\x00\x00',
       b'78109-THR-DA40\x00\x00',
       b'78109-THR-K120\x00\x00',
-      b'78109-TKN-H110\x00\x00',
     ],
     (Ecu.shiftByWire, 0x18da0bf1, None): [
       b'54008-THR-A020\x00\x00',
@@ -905,12 +902,15 @@ FW_VERSIONS = {
   CAR.ODYSSEY_CHN: {
     (Ecu.eps, 0x18da30f1, None): [
       b'39990-T6D-H220\x00\x00',
+      b'77959-T6A-H140\x00\x00',
     ],
     (Ecu.gateway, 0x18daeff1, None): [
       b'38897-T6A-J010\x00\x00',
+      b'38897-TKN-H030\x00\x00',
     ],
     (Ecu.combinationMeter, 0x18da60f1, None): [
       b'78109-T6A-F310\x00\x00',
+      b'78109-TKN-H110\x00\x00',
     ],
     (Ecu.fwdRadar, 0x18dab0f1, None): [
       b'36161-T6A-P040\x00\x00',
